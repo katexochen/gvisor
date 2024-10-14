@@ -18,10 +18,10 @@ package main
 
 import (
 	"context"
+	"crypto/rand"
 	"fmt"
 	"io"
 	"log"
-	"math/rand"
 	"net"
 	"os"
 	"os/exec"
